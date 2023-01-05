@@ -1,0 +1,3 @@
+/home/magy/Desktop/subnet calculator/cmake-build-debug/CMakeFiles/subnet_calculator.dir
+/home/magy/Desktop/subnet calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/magy/Desktop/subnet calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
